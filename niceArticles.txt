@@ -1,0 +1,2 @@
+encapsulation, access modifiers
+https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/
